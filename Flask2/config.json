@@ -1,0 +1,13 @@
+{
+    "params":{
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/mysite",
+        "prod_uri": "mysql://root:@localhost/mysite",
+        "fb_url": "https://www.facebook.com",
+        "tw_url": "https://twitter.com",
+        "gh_url": "https://github.com/Patade-Soham",
+        "blog_name": "My Blog",
+        "tag_line": "A blog for the new age"
+
+    }
+}
